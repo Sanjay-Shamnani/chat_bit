@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64040700610",
+    "firebase_url": "https://chat-bit.firebaseio.com",
+    "project_id": "chat-bit",
+    "storage_bucket": "chat-bit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64040700610:android:cf3a270593e1875533895b",
+        "android_client_info": {
+          "package_name": "com.example.chat_bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64040700610-755o54k89c0rd2v8mdaujjd6park4oqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_bit",
+            "certificate_hash": "d9402c36126c29b3daebf36241d01315f7b3e308"
+          }
+        },
+        {
+          "client_id": "64040700610-5j129956o3hc2e426fdabk8l8m5d3s47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHeTE0g7svNim--XKDFigr_wqDf9_CVK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64040700610-5j129956o3hc2e426fdabk8l8m5d3s47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
