@@ -3,7 +3,6 @@ import 'package:chat_bit/provider/user_provider.dart';
 import 'package:chat_bit/resources/auth_methods.dart';
 import 'package:chat_bit/screens/chatscreens/widgets/cached_image.dart';
 import 'package:chat_bit/screens/login_screen.dart';
-import 'package:chat_bit/screens/pageviews/chats/widgets/shimmering_logo.dart';
 import 'package:chat_bit/widgets/appbar.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
